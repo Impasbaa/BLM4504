@@ -20,4 +20,4 @@ Bu proje, düşük ışık koşullarında çekilen görüntülerin **Zero-DCE (Z
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/Zero-DCE-Low-Light.git](https://github.com/KULLANICI_ADIN/Zero-DCE-Low-Light.git)
+   git clone [https://github.com/Impasbaa/BLM4504.git](https://github.com/Impasbaa/BLM4504.git)
